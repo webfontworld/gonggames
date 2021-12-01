@@ -1,6 +1,6 @@
 # 이사만루체(EsaManru)
 
-<a href="https://wess.tistory.com/247" target="_blank">
+<a href="https://wess.tistory.com/249" target="_blank">
     <img src="https://webfontworld.github.io/gonggames/EsaManru.jpg" alt="EsaManru" style="width:300px">
 </a>
 
